@@ -4,20 +4,7 @@
 - 💞️ I’m looking to collaborate in data projects in generally to create more experience and specially with blockchain dataset.
 - I code with Python.
 - 📫 You can reach me through LinkedIn.
-  
-<h1 align="left">What's up?</h1>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left"></p>
+  <p align="left"></p>
 
 ###
 
@@ -27,25 +14,13 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
 <div align="left">
 </div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###

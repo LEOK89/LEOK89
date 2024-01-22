@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Leo.
 - 👀 I’m interested in tech, data and blockchain tecnology.
 - 🌱 I’m currently learning to become a Data Analyst.
--  The skills i'm acquiring are: Advance Excel, Power Query, Power Pivot, Sql, Database, Workbench, Python,NumPy,Pandas,Power BI and Google Looker.
 - 💞️ I’m looking to collaborate in data projects in generally to create more experience and specially with blockchain dataset.
 - 📫 You can reach me through LinkedIn.
